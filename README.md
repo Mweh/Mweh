@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mweh
 - 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Flutter, Dart Programming Language
+- 🌱 I’m currently learning Swift and Flutter
 - 📫 How to reach me linktr.ee/fahmihimself
 
 <!---
