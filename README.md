@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahmi!
 - 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Swift and Flutter
+- 🌱 I’m currently learning Swift and Python
 - 📫 How to reach me linktr.ee/fahmianton
 
 <!---
