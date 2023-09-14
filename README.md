@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahmi!
-- 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Swift and Python
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me linktr.ee/fahmianton
 
 <!---
